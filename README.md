@@ -30,5 +30,3 @@ Hard links are shown as normal files. Detect by:
 * Python 3.7+
 * Linux / WSL / macOS
 
-
-MIT
